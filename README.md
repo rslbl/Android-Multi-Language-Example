@@ -1,1 +1,1 @@
-# Android-Multi-Language-Example
+# Android multi language application with different string.xml files
